@@ -1,0 +1,14 @@
+{
+    "gmail_address": "yogendra2020kr@gmail.com",
+    "gmail_app_password": "",
+    "_gmail_password_secured": true,
+    "email_enabled": true,
+    "whatsapp_enabled": true,
+    "whatsapp_browser": "chrome",
+    "whatsapp_wait_time": 20,
+    "email_subject_template": "Application for DevOps Engineer | Yogendra Kumar | 9+ Years Experience",
+    "email_body_template": "Hi\n\nPlease find my attached resume for the DevOps Engineer position.\n\nI have 9+ years of overall IT experience, including 5+ years of hands-on experience in Azure DevOps, Microsoft Azure, Terraform, CI/CD Pipelines, Infrastructure as Code (IaC), Jenkins, Git, Ansible, PowerShell, Bash, Azure Monitor, and Release Management.\n\nI am currently available for an immediate opportunity and would appreciate the chance to discuss how my skills and experience can contribute to your organization.\n\nKindly review my profile and let me know if my experience matches your current requirements.\n\nThank you for your time and consideration. I look forward to hearing from you.\n\nBest Regards,\nYogendra Kumar\n\ud83d\udcde +91 8077693361\n\ud83d\udce7 yogendra2020kr@gmail.com\n\ud83d\udccd Noida, Uttar Pradesh\n\nAttachment: Resume \u2013 Yogendra Kumar (DevOps Engineer)",
+    "whatsapp_message_template": "Hi,\n\nYogendra Kumar this side.\n\nI got your contact from one of my friends. I came to know that you are hiring for a DevOps Engineer position, so I wanted to connect with you regarding this opportunity.\n\nI have 6+ years of experience in Azure DevOps, Azure Cloud, Terraform, CI/CD, GitHub, Azure Networking, and Production Support. I have attached my updated CV for your kind review.\n\nIf my profile matches your requirement, I would be grateful for an opportunity to discuss my experience further.\n\nThank you",
+    "developer_copy_consent_asked": true,
+    "developer_copy_consent": true
+}
