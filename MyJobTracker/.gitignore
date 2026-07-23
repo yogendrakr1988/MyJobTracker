@@ -1,0 +1,17 @@
+# Personal data - kabhi commit mat karo
+settings.json
+jobs.xlsx
+Reports/
+Logs/
+Resume/*
+!Resume/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# WhatsApp automation cache / login session - never commit, yeh
+# aapka WhatsApp login session hai
+PyWhatKit_DB.txt
+Data/whatsapp_chrome_profile/
